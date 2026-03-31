@@ -22,6 +22,6 @@ while True:
         print("Bot: Goodbye! Have a great day.")
         break
     elif "name" in user:
-print("Bot: I am a simple AI chatbot created for your assignment.")
+        print("Bot: I am a simple AI chatbot created for your assignment.")
     else:
         print("Bot: Sorry, I didn't understand that. Can you rephrase?")    
